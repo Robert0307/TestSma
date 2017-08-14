@@ -15,4 +15,8 @@ public class Hello {
     public static void helloWord(){
         Log.d(TAG, "helloWord");
     }
+
+    public static void helloNuts(){
+        Log.d(TAG, "helloNuts");
+    }
 }
