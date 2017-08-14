@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Hello.helloWord();
         Hello.helloNuts();
+        //测试修改
     }
 
     @Override
